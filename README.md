@@ -1,4 +1,4 @@
-# Time_earning_tracking_Faith_Emma
+# Time and earning tracker
 
 Problem
 
